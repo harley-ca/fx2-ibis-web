@@ -1,7 +1,49 @@
 html {
     background-color: whitesmoke;
 }
+body {
+    padding: 0;
+    margin: 0;
+}
+a:link {
+    color: rebeccapurple;
+}
+a:hover {
+    background-color: tomato;
+}
+a:visited {
+    color:crimson;
+}
 
 header {
     background-color: orange;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
+footer {
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}
+.mainSection {
+    border: 5px paleturquoise solid;
+    padding: 10px;
+    margin: 20px;
+}
+.oathSection {
+    padding: 10px;
+}
+#evil_incarnate_img {
+    width: 500px;
+}
+#hailText {
+    padding: 1in;
+    padding-top: 2in;
+    font-size: x-small;
+    line-height: 30px;
+    display: inline-block;
+}
+#hailText:hover {
+    font-size: 30px;
 }

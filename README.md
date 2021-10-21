@@ -11,3 +11,5 @@
 - create images/
 - create pages/
 - create README.md
+
+## Reveal the TRUTH
